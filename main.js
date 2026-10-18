@@ -1,6 +1,6 @@
 (function () {
   var S = window.SITE || { sketches: [], works: [] };
-  var IMG = "assets/img/";
+  var IMG = "";
   var isMobile = function () { return window.matchMedia("(max-width: 760px)").matches; };
   var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   var fine = window.matchMedia("(hover: hover) and (pointer: fine)").matches;

@@ -4,9 +4,9 @@
   Мобилка: 1 единица --m = 1px макета 390.
 */
 
-@font-face { font-family: "Instrument Serif"; src: url("assets/fonts/instrument-serif-400.woff2") format("woff2"); font-weight: 200; font-display: swap; }
-@font-face { font-family: "Plex Mono"; src: url("assets/fonts/plex-mono-400.woff2") format("woff2"); font-weight: 400; font-display: swap; }
-@font-face { font-family: "Inter"; src: url("assets/fonts/inter-400.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Instrument Serif"; src: url("instrument-serif-400.woff2") format("woff2"); font-weight: 200; font-display: swap; }
+@font-face { font-family: "Plex Mono"; src: url("plex-mono-400.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Inter"; src: url("inter-400.woff2") format("woff2"); font-weight: 400; font-display: swap; }
 
 :root {
   --bg: #0f0f0f;
